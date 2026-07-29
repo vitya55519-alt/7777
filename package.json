@@ -1,0 +1,8 @@
+{
+  "name": "my-girlfriend-bot",
+  "version": "1.0.0",
+  "dependencies": {
+    "node-fetch": "^3.3.2",
+    "ioredis": "^5.3.2"
+  }
+}
